@@ -1,0 +1,3 @@
+# CP-CONTEST
+
+All my competitive programming practice is here, from sites like AtCoder.jp, Codeforces, etc...
